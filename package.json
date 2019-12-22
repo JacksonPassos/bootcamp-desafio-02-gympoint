@@ -1,0 +1,11 @@
+{
+  "name": "bootcamp-desafio-02-gympoint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JacksonPassos/bootcamp-desafio-02-gympoint.git",
+  "author": "Jackson Passos <jacksonguitar33@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
