@@ -74,8 +74,6 @@ class UserController {
             name,
             email,
         })
-
-        return res.json({ ok: true })
     }
 }
 
