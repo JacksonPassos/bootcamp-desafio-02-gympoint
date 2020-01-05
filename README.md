@@ -1,5 +1,5 @@
 <h3 align="center">
-  Desafio 2: Gympoint, o início
+  Backend da aplicação Gympoint
 </h3>
 
 <blockquote align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
@@ -9,7 +9,7 @@
 
 A aplicação é um app gerenciador de academia, o **Gympoint**.
 
-Nesse primeiro desafio foi criado algumas funcionalidades básicas.
+No primeiro desafio foi criado algumas funcionalidades básicas.
 
 ### Um pouco sobre as ferramentas
 
